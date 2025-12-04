@@ -1,0 +1,143 @@
+Project Title: CFO Computation — ModEX (Client Review Demo)
+
+Objective (to include at top of builder input)
+
+Build a modern, responsive, Arabic-language (RTL) demo website for CFO Computation (organized by ModEX – Financial Modeling Experts).
+
+This is a visual/demo prototype for client review only (no production payments or live user onboarding required). The website content, navigation, labels, and UI copy must be in Arabic. Provide a live staging URL and editable project files.
+
+Core instructions (must be followed)
+
+Language & Direction
+
+All visible site text must be Arabic (right-to-left).
+
+Use Arabic headings and body text; translate or adapt copy from the supplied report into clear, formal Arabic suitable for a professional audience.
+
+Branding
+
+Use client logo and brand colors if provided. If not provided, use placeholders and indicate missing assets. Default color suggestions: Deep Navy #0B2A4A, Teal #00A99D, White #FFFFFF.
+
+Include footer credit in Arabic exactly: تصميم العرض والنسخة التجريبية: إبراهيم أحمد.
+
+Responsiveness & Accessibility
+
+Fully responsive for mobile (≤480px), tablet (~768px) and desktop (≥1024px).
+
+RTL-aware layouts, semantic HTML, alt text for images, keyboard navigation, and basic WCAG considerations.
+
+Design Tone
+
+Corporate, executive, minimal, modern. Use finance-themed imagery (charts, dashboards, boardroom). Clean grid, generous whitespace, readable Arabic typefaces (bold sans for headings, clean Arabic sans for body).
+
+Site structure & content (pages and key sections — all in Arabic)
+
+Home (الصفحة الرئيسية)
+
+Hero with short mission statement, 2 CTAs: عرض المسابقة and طلب عرض.
+
+Quick summary of the 4 competition stages with icons.
+
+Visual timeline of participant journey.
+
+About / Vision (عن المسابقة والرؤية)
+
+Problem statement, mission, target audience (محللو مالية، FP&A، طلاب MBA). Use report text translated/adapted to Arabic.
+
+Competition Stages (مراحل المسابقة)
+
+Four cards: Stage 1–4 (المرحلة 1 — التقييم الأساسي، المرحلة 2 — نموذج الحالة، المرحلة 3 — محاكاة استراتيجية، الجولة النهائية — تحدي مجلس الإدارة). Each card: وصف مختصر، متطلبات تسليم، وزن التقييم.
+
+Participant Journey (رحلة المتسابق)
+
+Visual step-by-step: التسجيل → استلام المهمة → رفع التسليم → تقييم الحكام → إصدار الشهادة.
+
+Include mock screenshots/placeholders: نموذج تسجيل تجريبي (frontend-only), لوحة متسابق (تجريبي), نافذة رفع ملف (تجريبي).
+
+Judging & Scoring (التحكيم وشرح نظام الدرجات)
+
+Display scoring criteria and sample calculation visualization (accuracy 25%, logic 20%, model structure 20%, strategic thinking 20%, presentation 15).
+
+Mock jury panel section.
+
+Certificates & Awards (الشهادات والجوائز)
+
+Three certificate mockups (Participation / Excellence / Winner) with preview and download button (static files).
+
+Support & Automation (الدعم والأتمتة)
+
+Visual chatbot widget (Arabic) that opens to sample Q&A only.
+
+Ticketing dashboard mockup and sample KB (قاعدة معرفة) articles (5–10 FAQs).
+
+Illustration of automation flow (registration → notification → submission → judge notification → certificate).
+
+Sponsorship Packages (رعاية وشركاء)
+
+Three package cards: ذهبية / فضية / برونزية with benefits bullet points.
+
+Media & Social (الوسائط الاجتماعية)
+
+Linktree integration (add provided links), embedded sample YouTube thumbnails, Instagram post previews.
+
+Contact / CTA (تواصل)
+
+Demo contact form (front-end only), WhatsApp and email placeholders, office info.
+
+Footer
+
+Social links, privacy / T&C placeholders, and credit: تصميم العرض والنسخة التجريبية: إبراهيم أحمد.
+
+Functional & CMS requirements
+
+Use a CMS (Webflow CMS / Framer CMS / Airtable connected) so client can edit: stages, FAQ, judges, sponsorship packages, media items.
+
+Demo forms should be front-end only or submit to a staging Airtable/Webflow CMS — do not connect to production payment gateways.
+
+Provide editable fields for all Arabic copy and image placeholders.
+
+Deliverables (required)
+
+Live staging URL (demo).
+
+Editable project export (Webflow/Framer project or Figma + HTML prototype).
+
+Figma design file with components and Arabic styles.
+
+Short Arabic admin guide (how to edit CMS, replace assets, update text).
+
+ZIP with certificate PDFs and exported images.
+
+A simple list of missing assets that must be provided by the client (logo variants, exact hex codes, judge names, payment gateway choice).
+
+Acceptance criteria (for client review)
+
+All site UI and copy appear in Arabic (RTL) and read naturally.
+
+Pages listed above exist and are linked with consistent navigation.
+
+Demo registration and upload UIs are realistic but do not process real payments or persist production data unless client requests staging integration.
+
+Chatbot and ticketing appear interactive with sample Q&A and a sample ticket lifecycle (visual only).
+
+Footer credit present in Arabic.
+
+Technical notes for the builder/developer
+
+Use high-quality Arabic fonts; ensure proper glyph rendering and line-height.
+
+Lazy-load large images, optimize assets for fast demo performance.
+
+Provide meta titles and Arabic meta descriptions for main pages.
+
+Leave placeholders for analytics and GTM snippets.
+
+Content source rules
+
+Use the supplied competition report as the primary source for Arabic copy. Where long text exists, summarize into concise Arabic paragraphs suitable for a landing/demo site. Flag any content gaps and list them in the missing-assets deliverable.
+
+Time estimate (for planning)
+
+Rapid demo (Webflow/Framer): 10–14 business days (1 review + 1 round of minor edits).
+
+Provide client with one scheduled review session and a single round of feedback adjustments included.
